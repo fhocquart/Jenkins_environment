@@ -1,4 +1,19 @@
-Dev (Development):
+#!/bin/bash 
 
-Purpose: This is the environment where developers write, test, and modify code. It's an isolated space for building and experimenting without affecting the live system.
-Characteristics: Typically, it has the latest code changes, and developers work collaboratively to develop new features or fix issues. It may not have the same performance or security configurations as other environments.
+echo "welcome to Jenkins first branch call the development branch"
+
+sleep 2 
+echo "Purpose: This is the environment where developers write, test, and modify code. It's an isolated space for building and experimenting without affecting the live system.
+Characteristics: Typically, it has the latest code changes, and developers work collaboratively to develop new features or fix issues. It may not have the same performance or security configurations as other environments."
+
+sleep 2 
+
+echo " incase of ypour prescreens just remember to mention all the environment whenever you are been asked to discuss on the topic of jenkins"
+
+sleep 2
+
+echo" remember that you have to create a website for a sports brand let's use nike as an example for people to shop and load their carts"
+
+sleep 3 
+
+echo "welcome to jenkins !!!"
