@@ -1,0 +1,4 @@
+Staging:
+
+Purpose: Staging is an intermediate environment between UAT and Prod. It's used to validate that the application works as expected in an environment that closely resembles the production setup before the actual deployment.
+Characteristics: Staging is a mirror image of the production environment. It helps catch any issues that might arise specifically due to the production environment's configurations.

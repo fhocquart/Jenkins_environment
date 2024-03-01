@@ -1,0 +1,4 @@
+Dev (Development):
+
+Purpose: This is the environment where developers write, test, and modify code. It's an isolated space for building and experimenting without affecting the live system.
+Characteristics: Typically, it has the latest code changes, and developers work collaboratively to develop new features or fix issues. It may not have the same performance or security configurations as other environments.

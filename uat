@@ -1,0 +1,5 @@
+UAT (User Acceptance Testing):
+
+Purpose: After development, the code moves to the UAT environment for testing by users or QA teams. It aims to ensure that the software behaves as expected in a controlled environment before it goes live.
+
+Characteristics: It mirrors the production environment closely, allowing for realistic testing. Users or quality assurance teams perform various tests to validate that the application meets business requirements.

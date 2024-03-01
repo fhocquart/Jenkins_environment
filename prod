@@ -1,0 +1,4 @@
+Prod (Production):
+
+Purpose: This is the live environment where the end-users interact with the application. It hosts the finalized and tested version of the software that has passed through development and UAT.
+Characteristics: The production environment is optimized for performance, security, and reliability. Any changes made to the code or configurations here directly impact users.

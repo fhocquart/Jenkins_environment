@@ -1,0 +1,5 @@
+Deploy:
+
+Purpose: Deployment is the process of moving the code from one environment (e.g., UAT, Staging) to another (e.g., Prod). It involves making the software available for users or systems.
+
+Characteristics: The deployment process ensures that the code, configurations, and dependencies are moved to the target environment without disrupting the service. This can involve tasks like copying files, updating databases, and configuring servers.
